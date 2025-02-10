@@ -11,8 +11,8 @@ body {
   /* --primary-color: #EC3B38; */
   /* --primary-color-hover: #fa716e; */
    /* Combo - 2 */
-  --primary-color: #2DC2BD;
-  --primary-color-hover: #F4978E; 
+  --primary-color: #f573f5;
+  --primary-color-hover: #f5aca5; 
   /* Combo - 3 */
   /* --primary-color: #fa5b0f;
   --primary-color-hover: #f57e47; */
@@ -269,7 +269,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/my_bg.png") top right no-repeat;
+  background: url("../img/my_bg.jpg") top right no-repeat;
   background-size: cover;
   position: relative;
 
